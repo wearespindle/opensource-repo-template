@@ -19,7 +19,7 @@ You want to help out by contributing code? Here's a checklist for a pull request
  * Write your awesome code;
  * Adhere to the coding style guide {insert link to styleguide here};
  * Make sure all tests pass {insert how to run tests here};
- * Don't forget to add yourself to the [CONTRIBUTERS.md](CONTRIBUTERS.md) file;
+ * Don't forget to add yourself to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file;
  * Squash commits and provide a sane commit message;
  * Create a pull request;
  * Write a descriptive title;
