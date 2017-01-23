@@ -47,3 +47,7 @@ The changelog can be found in the [CHANGELOG.md](CHANGELOG.md) file.
 If you want to report an issue see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more info.
 
 We will be happy to answer your other questions at {opensource@wearespindle.com or insert alias}
+
+## License
+
+{Project} is made available under the GNU General Public License v3.0 license. See the [LICENSE file](LICENSE) for more info.
