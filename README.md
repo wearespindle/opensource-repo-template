@@ -50,4 +50,4 @@ We will be happy to answer your other questions at {opensource@wearespindle.com 
 
 ## License
 
-{Project} is made available under the GNU General Public License v3.0 license. See the [LICENSE file](LICENSE) for more info.
+{Project} is made available under the {license type} license. See the [LICENSE file](LICENSE) for more info.
