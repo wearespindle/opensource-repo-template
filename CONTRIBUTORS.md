@@ -9,4 +9,4 @@ Keep the list in alfabetical order please.
 
 ## Many thanks to
 
- * Devhouse Spindle {opensource@wearespindle.com}
+ * Contributor {contributor@example.tld}
